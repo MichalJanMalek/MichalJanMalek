@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Michal-J-Malek/Michal-J-Malek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### I'm Michal Malek and this is my personal github account for any and all coding projects associated to me will be.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
